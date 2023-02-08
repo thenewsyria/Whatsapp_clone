@@ -30,19 +30,5 @@ After cloning this repository, migrate to ```flutter-whatsapp-clone``` folder. T
 - Add Firestore & Storage Rules
 - Create Android & iOS Apps
 
-Then run the following commands to run your app:
-```bash
-  flutter pub get
-  open -a simulator (to get iOS Simulator)
-  flutter run
-```
 
-## Tech Used
-**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
-
-**Client**: Flutter, Riverpod
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
