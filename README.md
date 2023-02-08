@@ -16,9 +16,7 @@ Full Stack Whatsapp Clone with Flutter, Firebase & Riverpod 2.0!
 
 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-whatsapp-clone/blob/master/screenshot.jpg" alt="Youtube Tutorial Image">
-</p>
+
 
 
 ## Installation
